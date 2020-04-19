@@ -1,0 +1,3 @@
+To extend Tester for new/more TTL Chips you simply need an Arduino Workbench.
+
+To test new Chip manually you can use der serial monitor.

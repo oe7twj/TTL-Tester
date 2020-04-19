@@ -3,6 +3,8 @@ yet another TTL tester for Arduino Mega
 
 Project Homepage: https://oe7twj.at/index.php?title=Projekte/TTL_Tester
 
+Wiki: https://github.com/oe7twj/TTL-Tester/wiki
+
 This is a Tester for common TTL Chips (74xx).
 The Hardware is very simple and based on Arduino MEGA.
 
